@@ -272,7 +272,7 @@ Once setup is complete, trigger builds in Jenkins and monitor deployments and me
 ## 📸 Screenshots
 
 ![Jenkins Pipeline](https://imgur.com/vORuBnK.png)
-![Monitoring Dashboard](https://imgur.com/2j7GSPs.png)
+
 
 ---
 
