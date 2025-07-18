@@ -3,9 +3,9 @@
 ![Project Banner](https://imgur.com/vORuBnK.png)
 
 <p align="center">
-  <a href="https://github.com/yourusername/DevOps-Project-09/stargazers"><img src="https://img.shields.io/github/stars/yourusername/DevOps-Project-09?style=social" alt="Stars"></a>
-  <a href="https://github.com/yourusername/DevOps-Project-09/network/members"><img src="https://img.shields.io/github/forks/yourusername/DevOps-Project-09?style=social" alt="Forks"></a>
-  <a href="https://github.com/yourusername/DevOps-Project-09"><img src="https://img.shields.io/github/license/yourusername/DevOps-Project-09" alt="License"></a>
+  <a href="https://github.com/dushf12/DevOps-Project-09/stargazers"><img src="https://img.shields.io/github/stars/yourusername/DevOps-Project-09?style=social" alt="Stars"></a>
+  <a href="https://github.com/dushf12/DevOps-Project-09/network/members"><img src="https://img.shields.io/github/forks/yourusername/DevOps-Project-09?style=social" alt="Forks"></a>
+  <a href="https://github.com/dushf12/DevOps-Project-09"><img src="https://img.shields.io/github/license/yourusername/DevOps-Project-09" alt="License"></a>
 </p>
 
 ---
