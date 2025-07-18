@@ -1,6 +1,6 @@
 # 🚀 Deploying the 2048 Game on AWS EKS: A Kubernetes Adventure
 
-![EKS Overview](image.png)
+![devsecops](https://imgur.com/vORuBnK.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-Production--Ready-blue?logo=kubernetes" />
